@@ -1,0 +1,14 @@
+C:\Users\pete\Documents\Visual Studio 2015\Projects\CRDemo\Trunk\Utilities.Email\bin\Release\Email.dll
+C:\Users\pete\Documents\Visual Studio 2015\Projects\CRDemo\Trunk\Utilities.Email\bin\Release\Email.pdb
+C:\Users\pete\Documents\Visual Studio 2015\Projects\CRDemo\Trunk\Utilities.Email\obj\Release\Email.dll
+C:\Users\pete\Documents\Visual Studio 2015\Projects\CRDemo\Trunk\Utilities.Email\obj\Release\Email.pdb
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MidiStoreMarket\Utilities.Email\bin\Release\Email.dll
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MidiStoreMarket\Utilities.Email\bin\Release\Email.pdb
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MidiStoreMarket\Utilities.Email\obj\Release\Email.dll
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MidiStoreMarket\Utilities.Email\obj\Release\Email.pdb
+C:\Users\pete\Documents\Visual Studio 2013\Projects\MidiStoreMarket\Utilities.Email\obj\Release\Utilities.Email.csprojResolveAssemblyReference.cache
+C:\Users\pete\Documents\Visual Studio 2013\Projects\CodeBridgeSoftware.Utilities\Utilities.Email\bin\Release\Email.dll
+C:\Users\pete\Documents\Visual Studio 2013\Projects\CodeBridgeSoftware.Utilities\Utilities.Email\bin\Release\Email.pdb
+C:\Users\pete\Documents\Visual Studio 2013\Projects\CodeBridgeSoftware.Utilities\Utilities.Email\obj\Release\Email.dll
+C:\Users\pete\Documents\Visual Studio 2013\Projects\CodeBridgeSoftware.Utilities\Utilities.Email\obj\Release\Email.pdb
+C:\Users\pete\Documents\Visual Studio 2013\Projects\CodeBridgeSoftware.Utilities\Utilities.Email\obj\Release\Utilities.Email.csprojResolveAssemblyReference.cache
